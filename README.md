@@ -1,0 +1,2 @@
+# solitaire
+SHENZHEN SOLITAIRE solver
